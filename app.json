@@ -62,7 +62,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5907205317"
+         "value": "1451534504"
       },
       "DEV_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
